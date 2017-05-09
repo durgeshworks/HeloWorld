@@ -64,3 +64,4 @@ C:\Digi\Works\Digi-Studio\Asp.Net\AWS Training\HelloWorld\HeloWorld\HelloWorld\b
 C:\Digi\Works\Digi-Studio\Asp.Net\AWS Training\HelloWorld\HeloWorld\HelloWorld\bin\Microsoft.AI.Web.xml
 C:\Digi\Works\Digi-Studio\Asp.Net\AWS Training\HelloWorld\HeloWorld\HelloWorld\obj\Release\HelloWorld.dll
 C:\Digi\Works\Digi-Studio\Asp.Net\AWS Training\HelloWorld\HeloWorld\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Digi\Works\Digi-Studio\Asp.Net\AWS Training\HelloWorld\HeloWorld\HelloWorld\obj\Release\HelloWorld.csprojResolveAssemblyReference.cache
