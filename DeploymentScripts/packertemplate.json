@@ -12,7 +12,6 @@
         "winrm_use_ssl": true,
         "winrm_insecure": true,
         "associate_public_ip_address" : true,
-        "ssh_keypair_name" : "spinnaker_keypair",
         "tags":{
                  "spinnaker" : "allowed"}
     }],
